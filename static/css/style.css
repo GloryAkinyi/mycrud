@@ -1,0 +1,12 @@
+form{
+    background-color: pink;
+    padding: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+    box-shadow: 5px 4px 6px #d018a5;
+}
+h2{
+    font-style: italic;
+    font-family: FreeSans;
+    font-weight: bold;
+}
